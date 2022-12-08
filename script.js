@@ -1,10 +1,8 @@
 const p = document.querySelector("p");
 
 setTimeout(function () {
-  p.textContent = "Our names are Rich and Mace, nice to meet you!";
-}, 3000);
-
-p.style.color = "blue";
+  p.textContent = "Our names are Rich and Mace, Nice to meet you!";
+}, 1000);
 
 var count = 0;
 //  Select increment and decrement button elements
